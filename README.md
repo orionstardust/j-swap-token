@@ -1,4 +1,4 @@
-# JULd token smart contract
+# token smart contract
 
 validator list
 
